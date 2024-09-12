@@ -3,7 +3,7 @@
 Adicionado arquivo de apresentação.
 
 ![Imagem1](https://github.com/user-attachments/assets/69207000-bce9-4a5c-ad13-5034af56e4bf)
-# Aprendizado por Projeto Integrado (API)
+# Repositório de informática para trabalhos
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
 
