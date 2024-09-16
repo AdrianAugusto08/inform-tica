@@ -3,25 +3,21 @@
 Adicionado arquivo de apresentação.
 
 ![Imagem1](https://github.com/user-attachments/assets/69207000-bce9-4a5c-ad13-5034af56e4bf)
-# Repositório de informática para trabalhos
+# Repositório de informática para trabalhos e atividades entregues.
 
-Template para os projetos do curso de graduação de gestão da produção industrial, ensinando na utilização do repositório digital "GitHub". 
+Template para as atividades e trabalhos de informática, ensinando a utilizar programas de apresentação de planilhas.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresnetações) das atividades](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto (API) 
+# Projeto 
 Descrição da demanda realizada pelo parceiro acadêmico.
 
 
@@ -52,12 +48,6 @@ Requisitos funcionais
 - Conteúdo da apresentação   
 - Relatórios 
 - Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
   
 
 
