@@ -34,22 +34,14 @@ Está matéria tem como objetivo ajudar e facilitar na utilização da plataform
  > PowerPoint
 > Excel
 > Canva
-> Giihub
+> Github
   
 
 
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-
-
-# Requisitos
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
   
 
 
