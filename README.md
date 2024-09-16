@@ -11,7 +11,6 @@ Template para as atividades e trabalhos de informática, ensinando a utilizar pr
 # Índice
 
 * [Projeto](#projeto-template)
-* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das atividades](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
