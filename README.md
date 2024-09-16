@@ -31,7 +31,10 @@ Está matéria tem como objetivo ajudar e facilitar na utilização da plataform
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > PowerPoint
+> Excel
+> Canva
+> Giihub
   
 
 
