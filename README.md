@@ -1,54 +1,35 @@
-# Informática 
-## Primeira lição de Github
-Adicionado arquivo de apresentação.
-
-![Imagem1](https://github.com/user-attachments/assets/69207000-bce9-4a5c-ad13-5034af56e4bf)
-# Repositório de informática para trabalhos e atividades entregues.
-
-Template para as atividades e trabalhos de informática, ensinando a utilizar programas de apresentação de planilhas.
+# Inform-tica-GPI-1-2-semestre
+Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas aprendendo novos métodos e fórmulas
 
 
 # Índice
 
-* [Projeto](#projeto-template)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresnetações) das atividades](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Aulas](#aulas)
+* [Informação Pessoal](#informação-pessoal)
+* [Objetivo das Aulas](#objetivo-das-aulas)
+* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto 
-Descrição da demanda realizada pelo parceiro acadêmico.
+# Aulas
+Desenvolver as habilidades e competências relacionadas ao campo da Informática
+
+# Informação Pessoal
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| aluno |   Adrian Augusto       
 
 
-# Objetivo do Projeto
-Está matéria tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+# Objetivo das Aulas
+Esta matéria tem como objetivo ajudar e facilitar na utilização do excel e outras ferramentas eletrônicas. inclusive o GitHub, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
- > PowerPoint
-> Excel
-> Canva
-> Github
-  
-
-
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-  
-
-
-
-
-
-# Funcionalidades e registros (vídeos e apresentações) das atividades
+# Funcionalidades e registros (vídeos e apresentações)
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
@@ -67,7 +48,6 @@ Adicionar video e documentos nessa seção
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
