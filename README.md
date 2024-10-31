@@ -13,7 +13,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 
 # Aulas
 ## Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
-![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/54970697-f575-41eb-afb7-7c98093b1d89)
+![image](https://github.com/user-attachments/assets/062e9c72-225f-4a16-92c8-3551c9c00985)
 
 ## Aula 2 - Excel - (soma/cont-se/se)
 ![image](https://github.com/user-attachments/assets/bc98d05b-8c5f-45bc-9088-9dc6c6baafd3)
