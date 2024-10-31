@@ -1,5 +1,5 @@
 # Inform-tica-GPI-1-2-semestre
-Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas aprendendo novos métodos e fórmulas
+Na aula de informática iremos aprender a utilizar o EXCEL, Powerpoint, Power BI e outras ferramentas aprendendo novos métodos e fórmulas
 
 
 # Índice
